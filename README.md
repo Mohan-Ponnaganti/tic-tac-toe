@@ -56,6 +56,3 @@ This project is licensed under the MIT License.
 ## Author
 [Mohan]
 
-```
-
-Feel free to customize this `README.md` file according to your needs. Let me know if you want to include anything else!
